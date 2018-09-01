@@ -1,0 +1,15 @@
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\bin\Debug\prjRemax.exe.config
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\bin\Debug\prjRemax.exe
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\bin\Debug\prjRemax.pdb
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.csprojResolveAssemblyReference.cache
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.frmPrincipal.resources
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.Properties.Resources.resources
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.csproj.GenerateResource.cache
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.csproj.CoreCompileInputs.cache
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.exe
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.pdb
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.frmShearchHouse.resources
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.frmCreatSales.resources
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.frmGestion.resources
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.frmLogin.resources
+C:\Users\Kleibert\source\repos\prjRemax\prjRemax\obj\Debug\prjRemax.frmManagerUsers.resources
